@@ -121,11 +121,13 @@ footer {
 }
 
 #Filmes td {
-    padding: 10px;
-    background-color: #F6511D;
-    color: white;
+    padding: 20px;
+    background-color: whitesmoke;
+    
 }
 
 #Filmes th {
-    background-color: #9BD2DE;
+    padding: 10px;
+    background-color: #F6511D;
+    color: white;
 }
